@@ -1,16 +1,16 @@
 # Beyond the Binge: Segmenting Netflix Comedy Viewers for Targeted CTV Ad Strategies
 
-## 1. Project Background
+## 📺 1. Project Background
 
 The landscape of television consumption is undergoing a rapid transformation, largely driven by the proliferation of ad-supported streaming platforms. A significant indicator of this shift is Netflix's announcement in May 2025: its ad-supported tier now boasts a substantial 94 million monthly active users. This remarkable growth fuels considerable investment in Connected TV (CTV) advertising. However, merely reaching a vast audience is insufficient; effective advertising demands genuine connection. This project directly addresses a critical need: understanding specific viewer preferences to ensure advertising budgets are allocated with maximum efficacy. I meticulously analyzed Netflix comedy TV series, a universally popular content category, to identify distinct audience segments. My core objective is to equip advertisers with precise, data-driven insights for more targeted ad placements and optimized budget allocation.
 
-## 2. Executive Summary
+## 📊 2. Executive Summary
 
 In light of the imperative to effectively engage millions of new Netflix ad-tier users, this project employed a precise analytical process to map viewer preferences. By meticulously analyzing 460 Netflix comedy TV series, I transformed raw content data into a clear representation of audience tastes. This in-depth analysis revealed four distinct and valuable audience segments: The Everyday Laughter Seeker, The Intellectually Curious Animation Buff, The Family-Friendly Adventure Curator, and The Relationship & Dramedy Explorer. For advertisers, this granular understanding offers an unparalleled opportunity to significantly maximize their return on investment. By tailoring campaigns directly to these unique segments, marketers can achieve far greater impact than through generic approaches, ensuring advertising is highly relevant and budgets are utilized with optimal effectiveness.
 
 ![PCA](pca.png)
 
-## 3. The Analytical Process
+## 🧠 3. The Analytical Process
 
 Understanding true audience enjoyment requires a systematic and structured approach. This project utilized a multi-step analytical process to transform raw information into actionable insights.
 
@@ -36,7 +36,7 @@ Next, each show's qualitative attributes were translated into a high-dimensional
 
 Finally, distinct audience clusters were identified. The K-Means algorithm was applied to group these detailed content profiles based on their inherent similarities. This process effectively organized the vast content library into clear, discrete segments. The selection of 4 clusters was strategically determined using statistical guides such as the Elbow Method and Silhouette Score, ensuring the resulting audience groups were both clear and highly actionable. Robustness and reproducibility of the findings were further ensured through multiple algorithm runs with fixed initializations. This comprehensive process successfully transformed raw data into precise, actionable audience profiles, directly enabling highly targeted advertising strategies.
 
-## 4. Key Discovery: Unveiling Unique Comedy Audiences
+## 🎭 4. Key Discovery: Unveiling Unique Comedy Audiences
 
 My precise analytical process culminated in a pivotal discovery: four distinct, highly unique audience segments within Netflix comedy. This unparalleled level of precision indicates that four tailored campaigns can significantly outperform a single, generic advertising approach, directly maximizing return on investment for advertisers.
 
@@ -64,7 +64,7 @@ These unique audience profiles, or personas, were meticulously identified based 
 
 Each identified persona represents a precise, actionable target, transforming a vast, undifferentiated audience into clearly defined segments ready for tailored engagement.
 
-## 5. Recommendations
+## 🎯 5. Recommendations
 
 The identified audience personas offer a clear and strategic pathway for digital marketers to significantly enhance their impact on Netflix:
 
