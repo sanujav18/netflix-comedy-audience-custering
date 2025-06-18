@@ -54,17 +54,20 @@ These unique audience profiles, or personas, were identified based on their spec
 
 ![persona-1](images/persona-1.png)
 
-- **The Intellectually Curious Animation Buff**: This segment seeks sophisticated, adult-oriented animated comedies that often blend with genres such as sci-fi or fantasy. Their humor is sharp and frequently incorporates dark themes. Keywords like 'animation', 'adult', and 'satirical' accurately define their unique taste.  
+- **The Intellectually Curious Animation Buff**: This segment seeks sophisticated, adult-oriented animated comedies that often blend with genres such as sci-fi or fantasy. Their humor is sharp and frequently incorporates dark themes. Keywords like 'animation', 'adult', and 'satirical' accurately define their unique taste.
+  
   *Examples: BoJack Horseman, Big Mouth*
 
 ![persona-2](images/persona-2.png)
 
-- **The Family-Friendly Adventure Curator**: This persona primarily comprises parents actively seeking wholesome yet exciting animated comedies suitable for young children. Their content is characterized by themes of 'adventure', 'family', and positive messages, often featuring 'slapstick' humor.  
+- **The Family-Friendly Adventure Curator**: This persona primarily comprises parents actively seeking wholesome yet exciting animated comedies suitable for young children. Their content is characterized by themes of 'adventure', 'family', and positive messages, often featuring 'slapstick' humor.
+
   *Examples: The Epic Tales of Captain Underpants, The Boss Baby: Back in Business*
 
 ![persona-3](images/persona-3.png)
 
-- **The Relationship & Dramedy Explorer**: This audience finds humor in the complexities of human connections. They appreciate comedies that skillfully weave laughter with 'drama', 'romance', or even 'mystery'. Keywords such as 'love', 'relationship', and 'friendship' define their preferred narratives.  
+- **The Relationship & Dramedy Explorer**: This audience finds humor in the complexities of human connections. They appreciate comedies that skillfully weave laughter with 'drama', 'romance', or even 'mystery'. Keywords such as 'love', 'relationship', and 'friendship' define their preferred narratives.
+  
   *Examples: Ginny & Georgia, Orange Is the New Black*
 
 ![persona-4](images/persona-4.png)
