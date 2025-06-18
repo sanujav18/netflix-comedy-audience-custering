@@ -8,6 +8,8 @@ The landscape of television consumption is undergoing a rapid transformation, la
 
 In light of the imperative to effectively engage millions of new Netflix ad-tier users, this project employed a precise analytical process to map viewer preferences. By meticulously analyzing 460 Netflix comedy TV series, I transformed raw content data into a clear representation of audience tastes. This in-depth analysis revealed four distinct and valuable audience segments: The Everyday Laughter Seeker, The Intellectually Curious Animation Buff, The Family-Friendly Adventure Curator, and The Relationship & Dramedy Explorer. For advertisers, this granular understanding offers an unparalleled opportunity to significantly maximize their return on investment. By tailoring campaigns directly to these unique segments, marketers can achieve far greater impact than through generic approaches, ensuring advertising is highly relevant and budgets are utilized with optimal effectiveness.
 
+![PCA](pca.png)
+
 ## 3. The Analytical Process
 
 Understanding true audience enjoyment requires a systematic and structured approach. This project utilized a multi-step analytical process to transform raw information into actionable insights.
