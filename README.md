@@ -45,14 +45,22 @@ These unique audience profiles, or personas, were meticulously identified based 
 - **The Everyday Laughter Seeker**: This persona favors comforting, familiar humor. Their content preferences are defined by keywords such as 'comedy', 'standup', and 'sitcom', indicating an affinity for traditional sitcoms and broadly accessible stand-up comedy.  
   *Examples: Arrested Development, Comedians in Cars Getting Coffee*
 
+![persona-1](persona-1.png)
+
 - **The Intellectually Curious Animation Buff**: This segment seeks sophisticated, adult-oriented animated comedies that often blend with genres such as sci-fi or fantasy. Their humor is sharp and frequently incorporates dark themes. Keywords like 'animation', 'adult', and 'satirical' accurately define their unique taste.  
   *Examples: BoJack Horseman, Disenchantment*
+
+![persona-2](persona-2.png)
 
 - **The Family-Friendly Adventure Curator**: This persona primarily comprises parents actively seeking wholesome yet exciting animated comedies suitable for young children. Their content is characterized by themes of 'adventure', 'family', and positive messages, often featuring 'slapstick' humor.  
   *Examples: The Epic Tales of Captain Underpants, The Boss Baby: Back in Business*
 
+![persona-3](persona-3.png)
+
 - **The Relationship & Dramedy Explorer**: This audience finds humor in the complexities of human connections. They appreciate comedies that skillfully weave laughter with 'drama', 'romance', or even 'mystery'. Keywords such as 'love', 'relationship', and 'friendship' define their preferred narratives.  
   *Examples: Ginny & Georgia, Orange Is the New Black*
+
+![persona-4](persona-4.png)
 
 Each identified persona represents a precise, actionable target, transforming a vast, undifferentiated audience into clearly defined segments ready for tailored engagement.
 
