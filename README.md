@@ -48,7 +48,7 @@ These unique audience profiles, or personas, were meticulously identified based 
 ![persona-1](persona-1.png)
 
 - **The Intellectually Curious Animation Buff**: This segment seeks sophisticated, adult-oriented animated comedies that often blend with genres such as sci-fi or fantasy. Their humor is sharp and frequently incorporates dark themes. Keywords like 'animation', 'adult', and 'satirical' accurately define their unique taste.  
-  *Examples: BoJack Horseman, Disenchantment*
+  *Examples: BoJack Horseman, Big Mouth*
 
 ![persona-2](persona-2.png)
 
